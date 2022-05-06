@@ -176,7 +176,6 @@ $(function () {
     $("#answerChar, #kaisetsu").show();
     first = false;
   }
-
   function pageScroll(pos, duration) {
     var scroll_event =
       "onwheel" in document
